@@ -1,0 +1,20 @@
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService - Excel clone success
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService - Workbook create success
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService -  start to read excel by is ,startTime is Fri May 27 10:55:33 CST 2022
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService -  end to read excel by is ,endTime is Fri May 27 10:55:33 CST 2022
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService -  end to read excel list by sheet ,endTime is Fri May 27 10:55:33 CST 2022
+DEBUG main org.testng.TestNG - suiteXmlPath: "C:\Users\8258\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE dataProvider.test3(dataProviderSetExcel)[pri:0, instance:dataProvider@887af79] 1342028832
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\8258\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService - Excel import start ,class is class dataProviderSetExcel
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService - Excel clone success
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService - Workbook create success
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService -  start to read excel by is ,startTime is Fri May 27 10:56:41 CST 2022
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService -  end to read excel by is ,endTime is Fri May 27 10:56:41 CST 2022
+DEBUG main cn.afterturn.easypoi.excel.imports.ExcelImportService -  end to read excel list by sheet ,endTime is Fri May 27 10:56:41 CST 2022

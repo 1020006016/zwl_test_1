@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testngsuite">
+    <test name="testngmodel">
+        <classes>
+            <class name="testngdemo">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <parameter name="key" value="test3"></parameter>
+    <parameter name="value" value="123456"></parameter>
+</suite>
